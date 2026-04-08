@@ -101,7 +101,7 @@ function baseEmbed(title, color = '#5865F2') {
     .setTitle(title)
     .setColor(color)
     .setTimestamp()
-    .setFooter({ text: '🎓 أكاديمية التعليم الرقمي' });
+    .setFooter({ text: '🎓prof hamza' });
 }
  
 async function sendLog(guild, message) {
