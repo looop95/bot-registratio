@@ -36,14 +36,14 @@ const ROLES = {
 };
  
 const CHANNELS = {
-  "1AC": "CHANNEL_ID_1AC",
-  "2AC": "CHANNEL_ID_2AC",
-  "3AC": "CHANNEL_ID_3AC"
+  "1AC": "1491166257930698904",
+  "2AC": "1491365145602162738",
+  "3AC": "1491365224677376002"
 };
  
 // ID قناة الإعلانات وقناة اللوج — غيّرهم لخادمك
-const ANNOUNCE_CHANNEL_ID = "ANNOUNCE_CHANNEL_ID";
-const LOG_CHANNEL_ID      = "LOG_CHANNEL_ID";
+const ANNOUNCE_CHANNEL_ID = "1490447800582934629";
+const LOG_CHANNEL_ID      = "1490494233746997419";
  
 // ═══════════════════════════════════════════════════════
 //  💾 قاعدة بيانات محلية (JSON)
